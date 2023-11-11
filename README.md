@@ -151,7 +151,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Screenshot 2023-11-11 220255](https://github.com/Kamali22004796/Calc/assets/120567837/768d12c6-62f5-4568-86a7-a53176325210)
+![Screenshot 2023-11-11 220255](https://github.com/Kamali22004796/Calc/assets/120567837/204e63ce-d0ad-45ac-a743-abbad94e88d5)
+
 
 
 ## RESULT:
